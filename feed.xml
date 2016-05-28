@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  <subtitle></subtitle>
+  <id>https://felixblog.curation.space</id>
+  <link href="https://felixblog.curation.space"/>
+  <link href="https://felixblog.curation.space/feed.xml" rel="self"/>
+  <author>
+    <name></name>
+  </author>
+</feed>
