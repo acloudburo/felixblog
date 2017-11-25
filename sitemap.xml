@@ -55,6 +55,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://felixblog.curation.space/2017/11/25/sonntag-3-6-2018.html</loc>
+    <lastmod>2017-11-25</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://felixblog.curation.space/2017/11/25/freitag-1-6-2018.html</loc>
     <lastmod>2017-11-25</lastmod>
     <priority>0.7</priority>
