@@ -91,6 +91,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://felixblog.curation.space/2018/06/17/trip-nach-genua.html</loc>
+    <lastmod>2018-06-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://felixblog.curation.space/menu4.html</loc>
     <lastmod>2018-06-17</lastmod>
     <priority>1.0</priority>
